@@ -12,8 +12,8 @@ points **A**, **B**, **C**. Graphically represent the triangle under study.
 
 A(1, -2, 3); B(2, -1, 2); C(3, -4, 5)
 
-**Task 3.3.** Using the Mathematica system, calculate the volume of
-of the tetrahedron with vertices at points A, B, C, D, and its height, which is released from
+**Task 3.3.** Using the Mathematica system, calculate the volume of the tetrahedron with vertices at points A, B, C, D,
+and its height, which is released from
 vertex D on the edge ABC. Graphically represent the tetrahedron, its height and the point
 intersection of the height and the base of the tetrahedron.
 The vertices of the tetrahedron can be labeled with any letters, for example,
