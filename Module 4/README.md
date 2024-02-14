@@ -43,8 +43,7 @@ with the row containing the maximum element and the row containing the minimum e
 more than one, then select the row with the higher index. Construct a vector whose elements are the maximum elements of all
 diagonals parallel to the main one.
 
-**Problem 5.** Given a matrix of integers in the range [-100,100] of size 5 x 5. For each row of the matrix find the sum of its
-of its elements. Construct a new matrix in which the elements located both above the main diagonal and above the side diagonal,
+**Problem 5.** Given a matrix of integers in the range [-100,100] of size 5 x 5. For each row of the matrix find the sum of its elements. Construct a new matrix in which the elements located both above the main diagonal and above the side diagonal,
 are equal to zero. Replace the diagonal elements in the original matrix with the average values of the rows.
 
 **Problem 6.** Generate a one-dimensional array of 20 random real numbers in the interval [-10,10] . Calculate the sum of negative
