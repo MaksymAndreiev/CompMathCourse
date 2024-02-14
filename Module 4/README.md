@@ -1,4 +1,56 @@
-# Topic 3. Elements of analytic geometry.
+# Topic 4. Matrix calculus.
+
+**Task 1.** Work with matrices.
+
+Using the Mathematica system, find the value of the matrix polynomial 2A^2+3a+5E, if E is a unit matrix. Find
+the inverse of the matrix A ^-1. Calculate the determinant of matrix A. Calculate the sum and difference of matrices A and B. Calculate the matrix 𝑨.
+𝑩 and the elementary product 𝑨∗𝑩 of matrices, calculate the difference between these products. Solve the matrix equation AX = B
+with respect to the matrix X.
+
+**Task 2.** Working with matrices and vectors.
+
+The vector x and matrices A and B are given. Using the Mathematica system, calculate the vector y given by the matrix
+expression, as well as
+the vector 𝑨𝑩 - 𝑩𝑨𝒙. Solve the equation Au=x using the inverse matrix and Kramer's rule. For each
+column and row of matrix A find
+the sum of the elements. Find the maximum and minimum elements of matrix B.
+
+**Task 3: Create matrices.
+
+Independently find the necessary functions for working with lists/arrays in the help system and solve the following problems.
+
+**Problem 1.** Generate a one-dimensional array of 16 random real numbers. Sort it in descending order and convert it
+into a matrix A
+of size 4 x 4.
+Create a matrix B of size 4 x 4 consisting of all fives. Generate a 4 x 4 matrix C whose elements Cij
+are calculated by the formula Cij=i^2-j^2. Generate a diagonal array D with elements on the diagonal [1,-1,2,-2]. Calculate
+the array A + B -C - D + E-3 , where E is a unit matrix of size 4 x 4.
+
+**Problem 2.** Create a matrix Z whose elements are calculated by the formula Zij= Xi^2 -Yj^2, where X =[-3, 0,1, 2, 5],
+Y =[-5, 0 -4,1, 3] are one-dimensional arrays. Add to Z a column consisting of positive integers 1,2,3,4,5. Then between the first
+and second lines insert a line consisting of ones.
+
+**Problem 3.** Create an array A of size 5 x 5, where on the main diagonal there are positive integers from 1 to 5, on
+the upper side diagonal \[Dash] units, on the lower side diagonal \[Dash] minus units, and the remaining elements are zero.
+Create an array B of size 5 x 5, all rows of which coincide with the vector 5,4,3,2,1. Create an array C of size 5 x 5 ,
+all columns of which coincide with the vector 2,4,6,8,10. Add all arrays D=A+B+C. In array D, replace the second row
+with ones, delete the last column and add an array of zeros of size 5 x 2 to the right of the resulting array.
+the resulting array, replace the elements whose indices simultaneously satisfy the inequalities 1 <= i <= 3, 3 <= j <= 5 with
+triples.
+
+**Problem 4.** Generate a matrix of random integers from the range [-100,100] of size 5 x 5. Swap the line
+with the row containing the maximum element and the row containing the minimum element. If there is more than one minimum (maximum) element
+more than one, then select the row with the higher index. Construct a vector whose elements are the maximum elements of all
+diagonals parallel to the main one.
+
+**Problem 5.** Given a matrix of integers in the range [-100,100] of size 5 x 5. For each row of the matrix find the sum of its
+of its elements. Construct a new matrix in which the elements located both above the main diagonal and above the side diagonal,
+are equal to zero. Replace the diagonal elements in the original matrix with the average values of the rows.
+
+**Problem 6.** Generate a one-dimensional array of 20 random real numbers in the interval [-10,10] . Calculate the sum of negative
+elements and their number. Calculate the number of array elements that are equal to 0. Sort the array in ascending order.
+of the elements' modulus. Replace all negative elements of the array with their squares and reorder the elements of the new array in ascending order.
+in ascending order.
 
 # Тема 4. Матричне числення.
 
